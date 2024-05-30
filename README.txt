@@ -1,5 +1,5 @@
 To setup:
-docker build -t vacuumstramer .
+docker build -t vacuumstreamer .
 ./run.sh make
 
 On the target run:
